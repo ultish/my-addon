@@ -47,6 +47,7 @@
     */
     "allowImportingTsExtensions": true,
 
-    "types": ["ember-source/types"]
+    "types": ["ember-source/types"
+    ]
   }
 }
